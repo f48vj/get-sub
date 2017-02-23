@@ -1,7 +1,7 @@
 {
   "name": "get-sub",
   "description": "get subtitles from shooter.cn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "bin": "bin/index.js",
   "license": "MIT",
