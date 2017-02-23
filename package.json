@@ -1,7 +1,7 @@
 {
   "name": "get-sub",
   "description": "get subtitles from shooter.cn",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
   "bin": "bin/index.js",
   "license": "MIT",
@@ -10,7 +10,6 @@
     "prepublish": "tsc"
   },
   "dependencies": {
-    "@types/minimist": "^1.2.0",
     "axios": "^0.15.3",
     "commander": "^2.9.0",
     "glob": "^7.1.1"
