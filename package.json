@@ -22,7 +22,7 @@
     "prepublish": "tsc"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "commander": "^2.9.0",
     "glob": "^7.1.1"
   },
